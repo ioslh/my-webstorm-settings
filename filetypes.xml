@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="deploy" type="PLAIN_TEXT" />
+      <mapping pattern=".bookignore" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
